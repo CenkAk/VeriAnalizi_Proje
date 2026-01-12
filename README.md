@@ -118,4 +118,4 @@ Proje kapsamında aşağıdaki görselleştirmeler yapılmıştır:
 ## İlgili Linkler
 
 - **Kaggle Veri Seti:** [Historical NBA Data](https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores)
-- **GitHub Repository:** (GitHub repo linki buraya eklenecek)
+- **GitHub Repository:** https://github.com/CenkAk/VeriAnalizi_Proje
