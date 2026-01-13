@@ -1,5 +1,8 @@
 # NBA Maç Sonucu Tahmini Projesi
 
+**Öğrenci İsmi:** Orhan Cenk Akcadoğan
+**Öğrenci Numarası:** 20703030
+
 Bu proje, Kaggle üzerinden alınan **Historical NBA Data** veri seti kullanılarak NBA maçlarının sonuçlarını tahmin etmeye yönelik makine öğrenmesi modelleri geliştirmeyi amaçlamaktadır.
 
 ## Proje Hakkında
